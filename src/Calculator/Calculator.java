@@ -3,7 +3,7 @@
  * it would print out the value it gets.
  */
 
-package Calculator;
+package calculator;
 
 import java.util.Scanner;
 
